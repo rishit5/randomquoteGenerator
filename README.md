@@ -1,3 +1,11 @@
+### Basic Overview
+This is a React application that uses an API to extract some random quotes and then Display them. <br>
+It is my first React app so go easy.<br>
+It makes use of AXIOS for the api.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
